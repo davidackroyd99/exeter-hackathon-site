@@ -39,3 +39,10 @@ h1 {
 .hero-text > a {
     margin: 0px 20px;
 }
+
+#about i {    
+    font-size: 8rem;
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+}

@@ -46,3 +46,23 @@ h1 {
     width: 100%;
     text-align: center;
 }
+
+.sponsor-table {
+    margin-top: 2rem;
+}
+
+.sponsor-table th {
+    padding: 0rem;
+}
+
+.sponsor-table td {
+    padding: 0.5rem 0rem;
+}
+
+.sponsor-table tr td:not(:first-child) {
+    text-align: center;
+}
+
+.sponsor-table tr th:not(:first-child) {
+    text-align: center;
+}
